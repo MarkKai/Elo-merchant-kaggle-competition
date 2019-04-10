@@ -1,2 +1,4 @@
-*.pkl
+test_data.pkl
+X.pkl
+y.pkl
 *.csv
